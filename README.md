@@ -20,3 +20,5 @@ A wild Pikachu appears!
 Now here is a link to [Some Website](http://somewebsite.com.ip4.bz/)
 
 Lets ad some emojis to :bowtie: because it's fun :grin:
+
+This is #60AEFF blue 
